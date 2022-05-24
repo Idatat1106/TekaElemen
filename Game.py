@@ -18,7 +18,6 @@ def main():
         Ind=random.randint(0,12)
         guess=None
         count=3
-        print(ElemenLists[Ind])
         while ElemenLists[Ind]!=guess and count>0:
             guess=input("Guess what is the name of periodic element I'm thinking of? ")
             if ElemenLists[Ind]==guess:
