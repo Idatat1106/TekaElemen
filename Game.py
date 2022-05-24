@@ -4,7 +4,7 @@ import random
 
 def main():
     
-    #Prepare the elements ad clues list
+    #Prepare the elements and clues list
     ElemenLists=[
         "Hydrogen",
         "Helium",
