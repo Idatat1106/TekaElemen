@@ -61,7 +61,7 @@ def main():
         else:
             cont=input("Guess more? Y/N ")
         if cont.capitalize()=="N":
-            print("THANK FOR TESTING MY GAME")
+            print("THANKS FOR TESTING MY GAME")
             break 
     
 main()
