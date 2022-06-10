@@ -24,7 +24,7 @@ def main():
         "Water Constituem",
         "Balloon",
         "Battery",
-        "The most organic compount",
+        "The most organic compound", # test update sync
         "Most needed by plant",
         "Most needed by human",
         "toothpaste",
